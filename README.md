@@ -117,5 +117,7 @@ Future enhancements include implementation of 16-bit and 32-bit Baugh-Wooley Mul
 ## 👩‍💻 Author
 **Rishitha Bonthu**
 🔗 GitHub: https://github.com/Rishitha126
+
 🔗 LinkedIn: https://www.linkedin.com/in/rishitha-bonthu-7ab34731b/
+
 📧 Aspiring VLSI & RTL Design Engineer | Digital Design | Verilog | ASIC Design

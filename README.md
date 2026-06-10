@@ -1,4 +1,4 @@
-# RTL to GDSII Flow Implementation of 8-bit Baugh-Wooley Multiplier
+# ASIC Implementation of 8-bit Baugh-Wooley Multiplier
 
 ## Overview
 

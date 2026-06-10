@@ -87,9 +87,7 @@ Static Timing Analysis (STA) is performed to verify timing closure and ensure th
 ## Results
 
 The synthesized design contains 181 standard cells with a total cell area of 1344.254 µm².
-
 Power analysis reports a leakage power of 6.13883 × 10⁻⁶ W, internal power of 5.50154 × 10⁻⁵ W, switching power of 6.80707 × 10⁻⁵ W, and a total power consumption of 1.29225 × 10⁻⁴ W.
-
 Timing analysis shows a Worst Negative Slack (WNS) of 0.000 ns and a Total Negative Slack (TNS) of 0.000 ns with zero violating paths, indicating successful timing closure. No maximum capacitance, transition, or fanout violations were observed.
 
 ## Applications
@@ -116,4 +114,8 @@ Timing analysis shows a Worst Negative Slack (WNS) of 0.000 ns and a Total Negat
 
 Future enhancements include implementation of 16-bit and 32-bit Baugh-Wooley Multipliers, pipelined multiplier architectures, low-power optimization techniques, implementation in advanced technology nodes, comparison with Wallace Tree and Array Multipliers, and FPGA versus ASIC performance evaluation.
 
-
+## 👩‍💻 Author
+**Rishitha Bonthu**
+🔗 GitHub: https://github.com/Rishitha126
+🔗 LinkedIn: https://www.linkedin.com/in/rishitha-bonthu-7ab34731b/
+📧 Aspiring VLSI & RTL Design Engineer | Digital Design | Verilog | ASIC Design
